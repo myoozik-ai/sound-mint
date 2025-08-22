@@ -1,0 +1,9 @@
+soundmint/
+├── index.html
+├── styles/
+│   └── styles.css
+├── fonts/
+│   ├── LASTICA.woff2
+│   └── FLIGHTER.woff2
+├── images/
+│   └── logo.png
